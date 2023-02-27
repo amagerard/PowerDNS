@@ -1,5 +1,4 @@
-
-Please checkout the wiki. https://github.com/amagerard/TemplateVM/wiki  
-This wiki will soon be available in English.  
-This wiki is a copy of my personal wiki.  
-I did not invent anything. Everything is on the internet.  
+PowerDns is a free server of domain name under GNU GPL license.   
+It allows you to manage domain names in a MySQL database  
+powerdns-recursor is  cache server.
+Poweradmin is a friendly web-based DNS administration tool for PowerDNS server.  
