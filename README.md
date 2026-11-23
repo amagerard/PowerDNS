@@ -5,6 +5,6 @@ Poweradmin is a friendly web-based DNS administration tool for PowerDNS server.
   
 [Home](../../../TemplateVM/wiki/home)  
 ### RedHat/Powerdns  
-|[RedHat 10](../../../Powerdns/wiki/101Network)|[RedHat 9](../../../Powerdns/wiki/01Network)  
- |:---|:---|  
+|[RedHat 10](../../../Powerdns/wiki/101Network)||  
+|:---|:---|  
 
